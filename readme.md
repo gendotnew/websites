@@ -221,6 +221,7 @@ _Please read [contribution guidelines](contributing.md) before contributing._
 
 - [Alcamy](https://alcamy.org/library) - Internet's catalog of knowledge.
 - [Arxiv Sanity Preserver](http://www.arxiv-sanity.com/)
+- [carboncarbon.bond](https://carboncarbon.bond) - Free organic chemistry lessons with 3D molecules and quick checks.
 - [Class central](https://www.class-central.com/)
 - [Code academy](https://www.codecademy.com/learn/all) - Free online coding tutorials.
 - [Coursera](https://www.coursera.org/)
