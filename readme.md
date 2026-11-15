@@ -271,6 +271,7 @@ _Please read [contribution guidelines](contributing.md) before contributing._
 - [Gnoosic](http://www.gnoosic.com/) - Website the recommends new bands based on ones you like.
 - [Jazz and rain](http://www.jazzandrain.com/)
 - [Last.fm](https://www.last.fm/home)
+- [No Stairs Please](https://nostairsplease.com/) - Live-music venue directory covering small stages across all 50 US states and who books them.
 - [Music for programming](http://www.musicforprogramming.net/?c=aesthetic)
 - [Music player for reddit](https://reddit.musicplayer.io/)
 - [Rainy mood](http://www.rainymood.com/)
