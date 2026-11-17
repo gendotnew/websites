@@ -383,6 +383,7 @@ _Please read [contribution guidelines](contributing.md) before contributing._
 - [Know it all](https://know-it-all.io/) - Web list that helps you track what you know and what you don't about web development.
 - [lpaste](http://lpaste.net) - Pastebin.
 - [Overleaf](https://www.overleaf.com) - Online LaTeX editing.
+- [PitchCalc](https://pitchcalc.com/?utm_source=github&utm_medium=github&utm_campaign=gendotnew_websites) - Free browser tools for roof pitch, sloped area, rafter length, and shingle quantities.
 - [powerfulwebsites.online](https://powerfulwebsites.online/) - A curated directory of highly useful, viral, and hidden tools across the internet with Quiz and AI-assistant.
 - [Protonmail](https://mail.protonmail.com/login) - Free secure Email hosted in Switzerland.
 - [Rawgit](http://rawgit.com/)
