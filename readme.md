@@ -96,6 +96,7 @@ _Please read [contribution guidelines](contributing.md) before contributing._
 ## Games
 
 - [Checkio](https://py.checkio.org/) - Games for coding.
+- [CheckersClub](https://checkersclub.com/bots) - Browser checkers in four variants with computer opponents.
 - [Code combat](https://codecombat.com/) - Programming Game designed for Students.
 - [Codewars](https://www.codewars.com/)
 - [Codingame](https://www.codingame.com/home)
