@@ -100,6 +100,7 @@ _Please read [contribution guidelines](contributing.md) before contributing._
 - [Codewars](https://www.codewars.com/)
 - [Codingame](https://www.codingame.com/home)
 - [Itch.io](https://itch.io/) - Simple way to find and share indie games online for free.
+- [Best Daily Games](https://bestdaily.games/) - Browse daily browser puzzles by topic and follow links to the original creators’ games.
 
 ## General
 
