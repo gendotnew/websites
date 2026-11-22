@@ -369,6 +369,7 @@ _Please read [contribution guidelines](contributing.md) before contributing._
 - [Carbon](https://carbon.now.sh/) - Create and share beautiful images of your source code.
 - [Cdecl](https://cdecl.org/) - Translate C code to English.
 - [Crontab guru](https://crontab.guru/) - Cronjob monitor.
+- [Crosy](https://crosy.app/) - Browser tool for converting photos to cross-stitch charts with free DMC color editing and digital stitch previews and progress marking, where complete pattern exports require an account and 30 credits.
 - [Debuggex](https://debuggex.com/) - Online visual regex tester. JavaScript, Python, and PCRE.
 - [Deepl](https://www.deepl.com/translator)
 - [Donger list](http://dongerlist.com/) - Set of unicode characters assembled to form a text emoticon.
