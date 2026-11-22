@@ -337,6 +337,7 @@ _Please read [contribution guidelines](contributing.md) before contributing._
 - [Bangs](https://duckduckgo.com/bang?)
 - [Duckduckgo](https://duckduckgo.com/) - Private Web Searching.
 - [Google scholar](https://scholar.google.nl/) - Easy searching for Academic Articles.
+- [ProfScout](https://profscout.com) - Search professors by research field and university.
 - [Slant](https://www.slant.co/)
 - [Yandex](https://www.yandex.com/)
 
