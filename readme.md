@@ -276,6 +276,7 @@ _Please read [contribution guidelines](contributing.md) before contributing._
 - [Rainy mood](http://www.rainymood.com/)
 - [Soft murmur](http://asoftmurmur.com/)
 - [Soundcloud](https://soundcloud.com/stream) - Music streaming.
+- [StagePeek](https://stagepeek.live/) - Interactive 2D seating charts and 3D concert stage-view simulator covering 201 global arenas and stadiums.
 - [Touch pianist](http://touchpianist.com/)
 - [YTRadio](https://ytradio.xyz/#/) - Live music playlists from YouTube.
 - [Spotify](https://www.spotify.com/in/) - Digital music service that gives you access to millions of songs.
